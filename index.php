@@ -47,7 +47,9 @@ include_once('./includes/header.php');
 			<div class="center">
 				<span class="used-item">HTML</span>
 				<span class="used-item">CSS</span>
+				<span class="used-item">PHP</span>
 				<span class="used-item">jQuery</span>
+				<span class="used-item"><a href="https://github.com/cweave/Portfolio" target="_blank">View on Github</a></span>
 			</div>		
 		</div>
 		<div class="col lg6 project">
